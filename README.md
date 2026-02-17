@@ -4,7 +4,7 @@ This is a PyTorch implementation of a CNN that classifies images from the CIFAR-
 
 ## What is this?
 
-I wanted to build a neural network from scratch to classify images into 10 different categories (airplanes, cars, birds, cats, etc.). The CIFAR-10 dataset is a good starting point for this - it has 60,000 small images (32x32 pixels) split into 50,000 for training and 10,000 for testing.
+I wanted to build a neural network to classify images into 10 different categories (airplanes, cars, birds, cats, etc.). The CIFAR-10 dataset is a good starting point for this - it has 60,000 small images (32x32 pixels) split into 50,000 for training and 10,000 for testing.
 
 The whole thing runs in a Jupyter notebook and downloads the data automatically, so you can just clone it and start training right away.
 
